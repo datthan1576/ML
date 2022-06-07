@@ -100,27 +100,69 @@ Lesson 14: Clustering and semi-supervised learning
 
 Lesson 15: Deep Neural Networks
 
+ - CNN, RNN, Tensorboard, Transfer Learning, Interpretability of NN.
+
 Lesson 16: AutoEncoder,GAN
+
+- Autoencoder, Linear Autoencoder, Autoencoder using CNN, Variational autoencoder.
+- Transfer learning from a pre-trained model.
+- Generative adversarial networks.
 
 Lesson 17: Tokenization,Word2Vec(Fasttext)
 
+- An example of classifying tweets.
+- Text tokenization.
+- Word2Vec (based on the FastText model).
+- FastText model (compressed to emb-dim=10 for lightness).
+- Problems for unsupervised learning of vectorization models.
+
 Lesson 18: Attention.Transformer
 
+- Attention model RNN.
+- Transformer.
+- T2T translator.
+- BPE tokenization.
+- BERT.
+- LaBSE.
+
 Lesson 19: Modeling
+
+- LDA.
+- PLSA(bigartm).
 
 Lesson 20: Homework
 
 Lesson 21: Learning to rank
 
+- Basic concept.
+- An example of a ranking problem.
+- An example of a recommender system.
+- Training a search engine based on pyserini.
+
 Lesson 22: Recommender Systems
 
+- Constant model. 
+- Correlation system. 
+- SLIM. 
+- SVD.
+
 Lesson 23: Time Series Analysis
+
+- Autoregression model.
+- Exponential smoothing.
+- Cluster analysis of time series.
 
 Lesson 24: Online Learning
 
 Lesson 25: Reinforcement Learning
+- Stationary multi-armed bandit.
+- Non-stationary multi-armed bandit. 
+- Swim problem.
 
 Lesson 26: Active Learning
+
+- Active learning with a random additive element.
+- Active learning with the addition of the element with the maximum variance.
 
 
 
